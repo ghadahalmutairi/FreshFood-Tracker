@@ -40,8 +40,8 @@ To learn more about the idea and structure of the project, view the presentation
 
 ## Team Members
 
+- Ghadah Almutairi
 - Hind Almutairi  
-- Ghadah Almutairi  
 - Jood Alyahya
 
 ## Conclusion
